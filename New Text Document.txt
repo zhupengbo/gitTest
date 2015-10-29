@@ -1,2 +1,4 @@
 git test
 change first
+change second
+change third
